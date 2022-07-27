@@ -1,6 +1,6 @@
-# npm-package-template
+# Github-Oauth-SDK
 
-A template for npm packages built in TypeScript
+Another Github oAuth sdk for Github 
 
 [![Build Status](https://img.shields.io/github/workflow/status/ForbesLindesay/npm-package-template/Test/main?style=for-the-badge)](https://github.com/ForbesLindesay/npm-package-template/actions?query=workflow%3ATest+branch%3Amain)
 [![Rolling Versions](https://img.shields.io/badge/Rolling%20Versions-Enabled-brightgreen?style=for-the-badge)](https://rollingversions.com/ForbesLindesay/npm-package-template)
