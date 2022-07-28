@@ -15,7 +15,16 @@
     "prettier:check": "prettier --ignore-path .gitignore --list-different './**/*.{md,json,yaml,js,jsx,ts,tsx}'",
     "test": "jest"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/express": "^4.17.13",
+    "@types/lodash": "^4.14.182",
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.2.9",
+    "querystring": "^0.2.1"
+  },
   "devDependencies": {
     "@forbeslindesay/tsconfig": "^2.1.0",
     "@types/jest": "^25.2.1",
@@ -29,6 +38,7 @@
     "prettier": "^2.0.4",
     "rimraf": "^3.0.2",
     "ts-jest": "^26.0.0",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^3.8.3"
   },
   "jest": {
